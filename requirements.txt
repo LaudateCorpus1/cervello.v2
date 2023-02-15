@@ -171,7 +171,7 @@ w3lib==1.20.0
 wasabi==0.2.2
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==2.2.3
 widgetsnbextension==3.2.1
 winkerberos==0.7.0
 wrapt==1.10.11
